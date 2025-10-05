@@ -32,10 +32,13 @@ The framework applies multiple mathematical transformation and aggregation metho
 
 ---
 
-### Features
+## Features
 **Interactive Map with Pins**: Explore cities worldwide with clickable map markers providing detailed breakdowns of environmental and infrastructural scores.
+
 **Radar Chart Comparison**: Compare multiple cities side-by-side using radar charts to visualize resilience and livability dimensions.
+
 **Advanced Analysis & Visualizations**: Access in-depth insights with data-driven charts, heatmaps, and trend analyses for better decision-making.
+
 **Efficient User Interface (UI)**: Navigate a streamlined and responsive design optimized for clarity, performance, and accessibility.
 
 ---
