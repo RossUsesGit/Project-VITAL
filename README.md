@@ -96,6 +96,22 @@ All sub-metrics are **transformed using linear, logarithmic, exponential, and si
 
 ---
 
+## Tech Stack
+
+For Frontend:
+**HTML**
+**CSS**
+**Javascript**
+
+For Backend:
+**Python**
+
+---
+## Link to Documentation and Backend Scripting
+
+The backend of Project VITAL is in a separate repository named 'Project VITAL Data Pipeline'. To access, click this link: https://github.com/RossUsesGit/Project-VITAL-Data-Pipeline.git
+---
+
 ## References
 
 - **NASA MODIS** – Global Annual PM2.5 Grids from MODIS, MISR, SeaWiFS and VIIRS Aerosol Optical Depth (AOD), 1998-2022, V5.GL.04 [(https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-sdei-gwrpm25-mmsvaod-5gl04-5.04)]([https://modis.gsfc.nasa.gov](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-sdei-gwrpm25-mmsvaod-5gl04-5.04))  
