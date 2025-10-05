@@ -72,14 +72,6 @@ All sub-metrics are **transformed using linear, logarithmic, exponential, and si
 
 ---
 
-## Visual Placeholder
-
-### Example VITAL Dashboard
-
-LAGAY NG IMAGE DITO NUNG SCREENSHOT NI VITAL
-
----
-
 ## Team
 
 - **Bulaong, Ross Andrew** (Backend Data Extraction, Research)  
@@ -175,14 +167,14 @@ LAGAY NG IMAGE DITO NUNG SCREENSHOT NI VITAL
 
 ## Demo Screenshots
 
-### About Us
-![About Us](demo_imgs/about_us.png)
+### Home Screen
+![Home Screen](demo_imgs/homescreen.png)
 
 ### UI and Map
 ![UI and Map](demo_imgs/ui_and_map.png)
 
-### Home Screen
-![Home Screen](demo_imgs/homescreen.png)
+### About Us
+![About Us](demo_imgs/about_us.png)
 
 ---
 
