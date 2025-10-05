@@ -705,7 +705,7 @@ export default function CityComparison() {
             {/* Left Sidebar */}
             <div className={`left-sidebar ${isSidebarExpanded ? "expanded" : "contracted"}`}>
                 <img
-                  src="./projectvital4.png"
+                  src="/projectvital4.png"
                   alt="Project Vital Logo"
                   className="sidebar-logo"
                   onClick={toggleSidebar}
