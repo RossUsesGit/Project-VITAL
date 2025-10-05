@@ -12,7 +12,7 @@ const StartupScreen = ({ onEnter }) => {
   return (
     <div className={`startup-screen ${isFadingOut ? 'fade-out' : ''}`}>
       <div className="liquid-glass">
-        <img src="/projectvital4.png" alt="Project Vital Logo" className="startup-logo" />
+        <img src="./projectvital4.png" alt="Project Vital Logo" className="startup-logo" />
         <button className="enter-button" onClick={handleEnter}>Begin</button>
       </div>
     </div>
