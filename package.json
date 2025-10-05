@@ -1,6 +1,7 @@
 {
   "name": "nasa_app",
   "private": true,
+  "homepage": "https://github.com/RossUsesGit/Project-VITAL",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
