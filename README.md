@@ -75,9 +75,9 @@ All sub-metrics are **transformed using linear, logarithmic, exponential, and si
 ## Team
 
 - **Bulaong, Ross Andrew** (Backend Data Extraction, Research)  
-- **Centeno, Clark Kent** (Frontend, Graphic Design, Functionalities)  
+- **Centeno, Clark Kent** (Frontend, Graphic Design, UI Functionalities)  
 - **Galan, Irick Marvin** (Backend Data Extraction, Research)  
-- **Loterte, David** (Frontend, Graphic Design, Functionalities)  
+- **Loterte, David** (Frontend, Graphic Design, UI Functionalities)  
 - **Rosario, Redjohn** (Backend Data Extraction, Research)  
 - **Tuzara, John Paul** (Backend Data Extraction, Research)  
 
